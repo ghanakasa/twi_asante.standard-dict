@@ -1,0 +1,41 @@
+english,standard,category,notes
+Save,Seevi,basic_action,To store/keep data
+Open,Bue,basic_action,To open a door/container
+Close,To mu,basic_action,To shut/close
+Copy,Kɔpi,basic_action,To replicate
+Paste,Peesti,basic_action,To place/apply
+Delete,Diliti,basic_action,To erase/remove
+Edit,Editi,basic_action,To change/alter
+View,Viu,basic_action,To look/see
+Settings,Sɛtɪŋ,basic_action,Arrangements/tidying up
+Cancel,Kansɛl,basic_action,To stop/cease
+Confirm,Kɔnfɛm,basic_action,To agree/execute
+Search,Sɜtʃ,basic_action,To look for
+Print,Printi,basic_action,To print/stamp
+Back,"San, Kɔ akyire",navigation,To return/go back
+Forward,Kɔ mu,navigation,To go forward
+Refresh,Refreshi,navigation,To open again
+New,Ade Foforɔ,file_operation,New thing
+Rename,Sesa din,file_operation,Change name
+Move,Twa kɔ,file_operation,Cut and go
+Select All,Fa nyinaa,file_operation,Take all
+Undo,"Pepa neɛ w'ayɛ",file_operation,Clean what you did
+Redo,Yɛ bio,file_operation,Do again
+Minimize,Minimaize,window,Hide it
+Maximize,Makzimize,window,Bring it out/forth
+Restore,Restore,window,Take it back to its former state
+Tab,Tab,ui_element,Section/division
+Toolbar,Tulbar,ui_element,Work area
+Status Bar,Gyinabea,ui_element,Position/location
+Menu,Akwankyerɛ,ui_element,List of choices
+File,Fael,ui_element,Paper/document
+Network,Nɛtwɛk,ui_element,Connections
+Bluetooth,Blutut,ui_element,Tooth that joins
+Password,Passwɛd,ui_element,Go-word
+Login,Lɔgin,ui_element,Enter inside
+Shut Down,Sɔt daun,system,To extinguish/power off
+Restart,Ristate,system,Turn off and on
+Scroll,Skrolli,interaction,To pull
+Click,Kliki,interaction,To press
+Drag,Draggi,interaction,To pull
+Advanced,Advanst,other,Go to the back/further
