@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dolphin\n"
+"PO-Revision-Date: 2026-04-23\n"
+"Last-Translator: Ghana Localization Team\n"
+"Language-Team: Twi (Asante - Standard)\n"
+"Language: twi_GH@asante-standard\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# Basic Actions
+msgid "Save"
+msgstr "Seevi"
+
+msgid "Open"
+msgstr "Bue"
+
+msgid "Close"
+msgstr "To mu"
+
+msgid "Copy"
+msgstr "Kɔpi"
+
+msgid "Paste"
+msgstr "Peesti"
+
+msgid "Delete"
+msgstr "Diliti"
+
+msgid "Edit"
+msgstr "Editi"
+
+msgid "View"
+msgstr "Viu"
+
+msgid "Settings"
+msgstr "Sɛtɪŋ"
+
+msgid "Cancel"
+msgstr "Kansɛl"
+
+msgid "Confirm"
+msgstr "Kɔnfɛm"
+
+msgid "Search"
+msgstr "Sɜtʃ"
+
+msgid "Print"
+msgstr "Printi"
+
+# Navigation
+msgid "Back"
+msgstr "San, Kɔ akyire"
+
+msgid "Forward"
+msgstr "Kɔ mu"
+
+msgid "Refresh"
+msgstr "Refreshi"
+
+# File Operations
+msgid "New"
+msgstr "Ade Foforɔ"
+
+msgid "Rename"
+msgstr "Sesa din"
+
+msgid "Move"
+msgstr "Twa kɔ"
+
+msgid "Select All"
+msgstr "Fa nyinaa"
+
+msgid "Undo"
+msgstr "Pepa neɛ w'ayɛ"
+
+msgid "Redo"
+msgstr "Yɛ bio"
+
+# Window
+msgid "Minimize"
+msgstr "Minimaize"
+
+msgid "Maximize"
+msgstr "Makzimize"
+
+msgid "Restore"
+msgstr "Restore"
+
+# UI Elements
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Toolbar"
+msgstr "Tulbar"
+
+msgid "Status Bar"
+msgstr "Gyinabea"
+
+msgid "Menu"
+msgstr "Akwankyerɛ"
+
+msgid "File"
+msgstr "Fael"
+
+# System & Network
+msgid "Network"
+msgstr "Nɛtwɛk"
+
+msgid "Bluetooth"
+msgstr "Blutut"
+
+msgid "Password"
+msgstr "Passwɛd"
+
+msgid "Login"
+msgstr "Lɔgin"
+
+msgid "Shut Down"
+msgstr "Sɔt daun"
+
+msgid "Restart"
+msgstr "Ristate"
+
+# Interaction
+msgid "Scroll"
+msgstr "Skrolli"
+
+msgid "Click"
+msgstr "Kliki"
+
+msgid "Drag"
+msgstr "Draggi"
+
+msgid "Advanced"
+msgstr "Advanst"
